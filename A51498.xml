@@ -1,0 +1,765 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Europes revels for the peace and His Majesties happy return a musical interlude : with a panegyrical poem spoken there on the same occasion / written by Mr. Motteux.</title>
+            <title>Europe's revels for the peace. Libretto</title>
+            <author>Eccles, John, d. 1735.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51498</idno>
+            <idno type="STC">Wing M2948</idno>
+            <idno type="STC">ESTC R9658</idno>
+            <idno type="EEBO-CITATION">13542939</idno>
+            <idno type="OCLC">ocm 13542939</idno>
+            <idno type="VID">100099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 796:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Europes revels for the peace and His Majesties happy return a musical interlude : with a panegyrical poem spoken there on the same occasion / written by Mr. Motteux.</title>
+                  <title>Europe's revels for the peace. Libretto</title>
+                  <author>Eccles, John, d. 1735.</author>
+                  <author>Motteux, Peter Anthony, 1660-1718.</author>
+               </titleStmt>
+               <extent>[8], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Libretto only.</note>
+                  <note>"Set to music by Mr. John Eccles"--p. [1]</note>
+                  <note>"Performed at the theatre in Little Lincolns-Inn-Fields by His Majesties servants."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100099:1"/>
+            <pb facs="tcp:100099:1"/>
+            <p>
+               <hi>EUROPE</hi>s REVELS FOR THE PEACE, AND His MAJESTIES HAPPY RETURN.</p>
+            <p>A Muſical Interlude. Performed at the THEATRE IN <hi>Little LINCOLNS-INN-Fields,</hi> BY His MAJESTIES SERVANTS. With a Panegyrical POEM ſpoken There, on the ſame Occaſion.</p>
+            <p>Written by Mr. <hi>MOTTEUX.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Tonſon</hi> at the <hi>Judge's Head,</hi> near the <hi>Inner-Temple-Gate,</hi> in <hi>Fleet-ſtreet.</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100099:2"/>
+            <pb facs="tcp:100099:2"/>
+            <head>TO Sir <hi>Theodore Janſſen.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO' I make bold to Prefix your Name to this haſty Product of a Loy<g ref="char:EOLhyphen"/>al Muſe; I do not preſume to Impoſe it on your Generous Nature in the formal way of a Dedication. I do it chiefly to acknowledge Obligations which my Poetical Circumſtances will not ſuffer me to return as I Wiſh. Too Happy, if I be not thought one of thoſe deſigning Debtors who come to own a Debt to have an opportunity of Enlarging it. Your Zeal for his Majeſty and the Publick good has juſtly diſtinguiſhed you among the beſt and moſt uſeful of his Subjects; and as it has byaſs'd you to think Favourably of the following Pieces in Manuſcript, I hope it will incline you to Honour them with your kind Acceptance now they appear in Print. Had I been the Maſter of Leiſure ſufficient to have undertaken a Poem more worthy this great Occaſion, I wou'd then have been Proud of Devoting it to your Patronage. But as theſe Lines are, I wholly leave them to their Fate; nor am I without Hopes of redeeming the Eſteem of the Ingenious, by ſomething more valuable on this or ſome ſuch Noble Theme. 'Tis what I am moſt Ambitious of Attempting and what<g ref="char:punc">▪</g> I might doubtleſs compaſs, cou'd I but Cloath in Robes of Poetry ſome of thoſe admirable <hi>Ideas</hi> which you have ſometimes Communicated to me on that great Subject. But Rich and ſet Dreſſes are expenſive and not ſo ſoon nor eaſily put on. Thus I muſt be content to let my Muſe appear in a looſe <hi>Deshabillé;</hi> perhaps, as well as other Females, ſhe'll be lik'd ne're the worſe for't, chiefly when Grac'd with her Singing and Dancing Atten<g ref="char:EOLhyphen"/>dants. 'Tis for their ſakes ſhe goes a Revelling; and after all, if ſhe helps but to ſet 'em off on the Stage and make 'em Pleaſe, ſhe may be ſaid to have done what the moſt topping Muſe often endeavours in vain. So hard it is to be Merry and Wiſe, if I may uſe the Expreſſion. Thoſe who know me well are ſenſible that tis not for want of good Will that I give not now ſomething of more Moment; and others may conſider that Poetry has its Curſes, as well
+<pb facs="tcp:100099:3" rendition="simple:additions"/>
+as Bleſſings. Poets like Miſers ſtarve themſelves for the meager ſatisfaction of leaving behind them what may Divert others, the one Toyling for the bare Fame of Wit, and the other for the Reputation of Wealth; where both ſhou'd be put to a better uſe. We ſhou'd ſtudy to reconcile thoſe two Be<g ref="char:EOLhyphen"/>nefits; and in that follow your Prudent Example. But few can be ſo happy as to be Maſters of your moderation in a flouriſhing Youth, and a Plentiful Fortune, or bleſt like you with a ſprightly Wit guided by a ſolid Wiſdom, at once to uſe and Improve it. You ever were a Friend to Ingenious Recreations, but your Ap<g ref="char:EOLhyphen"/>plication to important Affairs, is always Predominant over the allurement of Pleaſure when it interferes with them. Even many of the Moments which you have retriev'd from your own private Concerns, have been devoted to Diſcoveries uſeful to the Publick; while I have been condemn'd to Drudge on Laborious Trifles, and Till the barren Fields of Poetry for the precari<g ref="char:EOLhyphen"/>ous hopes of a ſlender Crop. Yet give me leave, Sir, to do my ſelf the Juſtice of putting you and others in mind that my Application to this ungrateful Study was at Firſt the Fruits of an involuntary Idleneſs; being Depriv'd of a hand<g ref="char:EOLhyphen"/>ſome Patrimony in <hi>France</hi> before the War, and ſince that of the ſmall Corre<g ref="char:EOLhyphen"/>ſpondence I had there, which is now wholly loſt. Thus I am Doom'd to Write on, having nothing to truſt to below but my Pen, and the reviving Smiles of ſome generous Noblemen, among whom I make bold with all due Veneration to mention the Great Mr. <hi>Montague;</hi> that vaſt and moſt Happy Genius, whoſe profound Sagacity, Indefatigable Care, and Admirable Conduct, have been ſo highly inſtrumental in Reforming the Coin, and reſtoring the Credit of the Nation: Sudden and amazing Wonders, which being effected in War, defeat<g ref="char:EOLhyphen"/>ed the Hopes of the King's Enemies at home and abroad, and mightily conduc'd to the Eſtabliſhment of this glorious Peace. While the Muſes are bleſt with ſuch Patrons, we have reaſonable Hopes of ſharing the ſweets of that <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal Good, and of being more effectually inſpir'd to ſing the Praiſes of thoſe, to whom the World owes ſuch mighty Bleſſings. As for my Humble Muſe, 'tis what ſhe moſt earneſtly deſires, the rather ſince it may enable me to give you ſome more Authentick Marks of the deep Reſpect, with which I ſubſcribe my ſelf,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Humble Servant,
+P. MOTTEUX</signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:100099:3"/>
+            <head>A PANEGYRICAL POEM ON His MAJESTY. As a PROLOGUE to this Interlude</head>
+            <byline>Spoken by Mr. <hi>Hodgſon.</hi>
+            </byline>
+            <lg>
+               <l>WHEN <hi>Britain</hi> welcomes her Returning Lord,</l>
+               <l>For Peace, for Freedom, for Himſelf Reſtor'd:</l>
+               <l>Our Joy's ſhou'd, like our Bleſſings, be extreme,</l>
+               <l>And Praiſe ſhou'd wanton in its boundleſs Theme:</l>
+               <l>The King has found ſo many Ways to Bleſs,</l>
+               <l>What Muſe can ev'n her private Debt expreſs?</l>
+               <l>Let joyful Throngs then ſing their Gain's Encreaſe,</l>
+               <l>Since <hi>Britain</hi>'s Soul on War engender'd Peace;</l>
+               <l>
+                  <pb facs="tcp:100099:4"/>Peace giv'n the World her Parent to Adorn,</l>
+               <l>Got in his Camp, and in his Palace Born.</l>
+               <l>Let others ſing how He his Thunder hurl'd,</l>
+               <l>And prov'd, like <hi>Jove,</hi> the Umpire of the World;</l>
+               <l>How, ev'n oppoſing Foes, his Fame advance,</l>
+               <l>
+                  <hi>France</hi> ſhook the Globe, but <hi>William</hi> humbl'd <hi>France:</hi>
+               </l>
+               <l>How wondring Kings from diſtant Empires came,</l>
+               <l>And found the Heroe greater than his Fame;</l>
+               <l>Ev'n when remote, like the Sun's active Ball,</l>
+               <l>Seeing, enliv'ning, and Controuling all;</l>
+               <l>King over Kings, by their free Choice aſſign'd,</l>
+               <l>Lord of his Fate, yet Maſter of his Mind;</l>
+               <l>By wiſe Delays, ev'n Maſter of his Foes,</l>
+               <l>Yet to the World's Command, preferring its Repoſe.</l>
+            </lg>
+            <lg>
+               <l>In Wonder loſt, the Muſes humble Train,</l>
+               <l>Wiſh'd but to ſing how by his Toils they gain:</l>
+               <l>But how can Words our grateful Thoughts diſplay?</l>
+               <l>Or what are Thoughts, ſuch Bleſſings to repay?</l>
+            </lg>
+            <lg>
+               <l>Born to give Liberty to each Degree;</l>
+               <l>He ev'n the Stage from Slav'ry's Yoke did free.</l>
+               <l>In an expenſive War, with wondring Eyes,</l>
+               <l>The Muſes ſaw New Theatres ariſe.</l>
+               <l>
+                  <pb facs="tcp:100099:4"/>Wit from the Gen'rous, large Supplies receiv'd,</l>
+               <l>And ev'n the Play'rs, nay, ev'n the Poets liv'd:</l>
+               <l>Nor did the Sound of War diſturb our Sports,</l>
+               <l>While he, for hard Campains, diſclaim'd the Eaſe of Courts.</l>
+               <l>Oh! Now our Reſt and Freedom are enſur'd,</l>
+               <l>May he enjoy the Pleaſures he ſecur'd!</l>
+            </lg>
+            <lg>
+               <l>Taught by the Vertuous Ruler of our Iſle,</l>
+               <l>The Stage, Reform'd, has learnt a Chaſter Style.</l>
+               <l>Ev'n with the Pious, 'twill at laſt be fam'd,</l>
+               <l>For Vertue cheriſht, and for Vice reclaim'd:</l>
+               <l>Such Deeds in Peace, will prove the Monarch's Care,</l>
+               <l>Who, Boldly Wiſe, reform'd the Coyn in War.</l>
+               <l>
+                  <hi>Britain,</hi> it ſelf a World, was firſt deſign'd</l>
+               <l>To free the Greater, then adorn Mankind:</l>
+               <l>Eaſe (Freedom's beſt Attendant) here will raiſe</l>
+               <l>In heighten'd Souls, the Noble Luſt of Praiſe.</l>
+               <l>Royal Academies ſhall grace the Age,</l>
+               <l>And many <hi>Dorſets</hi> Patronize the Stage.</l>
+               <l>To <hi>William</hi>'s Court, all Noble Arts will run;</l>
+               <l>The Muſes move ſtill Weſtward like the Sun.</l>
+               <l>His Fame by them, and They by him ſhall live,</l>
+               <l>He who gave Peace, will ev'ry Bleſſing give.</l>
+            </lg>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:100099:5"/>
+            <head>The Perſons Repreſented in the In<g ref="char:EOLhyphen"/>terlude.</head>
+            <list>
+               <item>AN <hi>Engliſh</hi> Officer. Mr. <hi>Boman.</hi>
+               </item>
+               <item>Meſſenger of Peace. Mrs. <hi>Hodgſon.</hi>
+               </item>
+               <item>An <hi>Engliſh</hi> Country man. Mr. <hi>Trefuſes.</hi>
+               </item>
+               <item>An <hi>Engliſh</hi> Countrey Woman Mrs. <hi>Lawſon.</hi>
+               </item>
+               <item>A <hi>Dutch</hi> Boor. Mr. <hi>Bright.</hi>
+               </item>
+               <item>A <hi>French</hi> Officer. Mr.—</item>
+               <item>An <hi>Engliſh</hi> Lady. Mrs. <hi>Boman.</hi>
+               </item>
+               <item>An <hi>Iriſh</hi> Raparee. Mr. <hi>Lee.</hi>
+               </item>
+               <item>A Country Laſs. Mrs. <hi>Willis.</hi>
+               </item>
+               <item>A Soldier. Mr. <hi>Wiltſhire.</hi>
+               </item>
+               <item>A <hi>Savoyard</hi> with a Raree Show. Jem. <hi>la Roche.</hi>
+               </item>
+               <item>
+                  <hi>Spaniards, Dutch, French</hi> and <hi>Engliſh</hi> Dancers.</item>
+               <item>Twelve Grenadeers who Exerciſe.</item>
+               <item>Chorus of <hi>Britains</hi> and other Nations.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:100099:5"/>
+            <head>
+               <hi>EUROPE</hi>'s REVELS, AN INTERLUDE.</head>
+            <head type="sub">Perform'd at the Theatre in <hi>Little Lincolns-Inn-Fields,</hi> at the King's Return after the Concluſion of the Peace.</head>
+            <byline>
+               <hi>Set to Muſick by Mr.</hi> John Eccles.</byline>
+            <stage>After a Warlike Symphony, an Alarm with Trumpets and Drums.</stage>
+            <stage>Enter an Engliſh Officer.</stage>
+            <sp>
+               <l>ARm, <hi>Britons!</hi> hark! how from afar</l>
+               <l>Alarming Drums and Trumpets call to War.</l>
+               <l>"<hi>France,</hi> whoſe exerted Pow'rs decreaſe, <stage>The Lines that are thus mark'd (") are left out in the Singing leſt the Performance ſhould be too long.</stage>
+               </l>
+               <l>"Collects them for a laſt Effort;</l>
+               <l>"But when ſhe cannot fright, will court</l>
+               <l>"And bribe us into Peace.</l>
+            </sp>
+            <stage>
+               <pb n="2" facs="tcp:100099:6"/>Enter <hi>Britons.</hi>
+            </stage>
+            <sp>
+               <speaker>Officer.</speaker>
+               <l>See how all the Brave aſſemble!</l>
+               <l>How they hurry</l>
+               <l>All to Glory!</l>
+               <l>
+                  <hi>William</hi> Thunders, Armies tremble.</l>
+               <l>Death or Conqueſt is the Cry.</l>
+               <l>Now we ſally,</l>
+               <l>Now they fly;</l>
+               <l>Now they rally,</l>
+               <l>Charge, and dye.</l>
+               <l>Cannons roaring,</l>
+               <l>Squadrons pouring;</l>
+               <l>Shouting,</l>
+               <l>Routing,</l>
+               <l>We purſue 'em,</l>
+               <l>We Subdue 'em.</l>
+               <l>Rage and Horror, Groans and Fear,</l>
+               <l>Blood and Slaughter ev'ry where.</l>
+            </sp>
+            <stage>The Chorus with all the Inſtruments repeat the foregoing Lines from <hi>See how all the Brave,</hi> &amp;c.</stage>
+            <stage>Enter a Lady at the Cloſe of the Chorus, and the Martial Muſick immediately changes, at her firſt Word, into ſofter Notes, with accompaniments of Flutes</stage>
+            <sp>
+               <p>Peace! Peace! Peace tunes the World: Harmonious Peace Bids War and Diſcord ceaſe.</p>
+               <lg>
+                  <pb n="3" facs="tcp:100099:6"/>
+                  <l>Thus does it Heav'n and <hi>William</hi> pleaſe,</l>
+                  <l>
+                     <hi>William</hi> whom nothing can oppoſe,</l>
+                  <l>Who can like <hi>Neptune</hi> calm the Seas,</l>
+                  <l>And bleſs, like <hi>Jove,</hi> his very Foes.</l>
+               </lg>
+               <lg>
+                  <l>Advance, happy Nations, to praiſe him, advance,</l>
+                  <l>From <hi>Britain,</hi> from <hi>Spain,</hi> from <hi>Belgia,</hi> from <hi>France;</hi>
+                  </l>
+                  <l>Sing <hi>William,</hi> and Peace, ſing, revel, and dance.</l>
+               </lg>
+            </sp>
+            <stage>Enter many People of ſeveral Nations: Among them a <hi>Spaniard,</hi> and a <hi>Spaniſh</hi> Woman with Caſtanets; then a <hi>Dutch</hi> Boor and Boorin, a <hi>French</hi> Valet and Waiting-Woman, and an <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Clown and his Wife dance after their Country Faſhion.</stage>
+            <stage>After the four Nations have danc'd ſeverally, the <hi>Engliſh</hi> Clown ſpeaks to the reſt.</stage>
+            <sp>
+               <speaker>Eng. Clo.</speaker>
+               <p>Hold Neighbours; ſince our Country has ſet you all a Dancing, you ſhall eene dance after our Country Faſhion: As for my Brother <hi>Hans</hi> the <hi>Dutch</hi>-man, his Hop<g ref="char:EOLhyphen"/>ping, (Dancing I ſhou'd have ſaid) agrees well enough with mine; As well, I cot, as the Fiddle and the Dancing Bear.</p>
+            </sp>
+            <sp>
+               <speaker>Dutchm.</speaker>
+               <p>Yaw varacktick Broeder.</p>
+            </sp>
+            <stage>Moſt of the reſt is omitted.</stage>
+            <sp>
+               <speaker>Eng. Clo.</speaker>
+               <p>But this Outlandiſh <hi>Spaniard;</hi> And you, Maſter Monſieur, don't foot it a whit like unto us; why, you wriggle and frisk about like the Hobby Horſe in a Morrice; but that's no wonder, for they ſay the very Dogs, Heav'n bleſs us! dance in your Country. Then there's he there bri<g ref="char:EOLhyphen"/>ſtles like one of our Turkeys; ſtalks about like a Boy on
+<pb n="4" facs="tcp:100099:7"/>
+a pair of Stilts, and ſnaps his Fingers like <hi>Roger</hi> our Barber, or like the Puppet in the Recreation of the orld.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. Wo.</speaker>
+               <p>Come Husband wee'll e'ne change Partners; let me alone for teaching one of the Gentlefolks.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. Clo.</speaker>
+               <p>Odszooks, you're in woundy haſte to be doing with Gentlefolks, goody Nimble-hips: Theſe Wives are al<g ref="char:EOLhyphen"/>ways plaguy ready to change Partners, and ſhake their Tails with Strangers: Well no matter, there's the <hi>French</hi> Monſieur, go beſtir your Stumps together: Let <hi>Jack Spaniard</hi> take <hi>Hans</hi> the <hi>Dutch</hi>-mans Vroe; And let her be ſure to put him in when he's out: Come Maſter Signior, As my Dame ſays, Wee'll change Wives; Odszooks, that's all the Faſhion with us now adays; wert not for changing now and then, there would not be half the Dancing that there is among us—Hey-day! I fancy this ſame <hi>Spaniard</hi> is like moſt other folks, he does not care any Body ſhould dance with his Wife; But he's for dancing with every body's Wife but his own. Od's niggs, tis all a Caſe; for once it ſhall be as I ſay: Come Cuckolds all arow.—Play me an Engliſh Horn-pipe.</p>
+            </sp>
+            <stage>A <hi>French</hi> Officer makes his Adreſſes to an <hi>Engliſh</hi> Lady.</stage>
+            <sp>
+               <speaker>Fr. Off.</speaker>
+               <lg>
+                  <l>Madame, me be, de tout Mon Coeur,</l>
+                  <l>Your very humble Serviteur.</l>
+                  <l>Begar me wiſh to have de Peace,</l>
+                  <l>Only to come embrace your Knees.</l>
+                  <l>Your Roy Guillaume is brave en Diable;</l>
+                  <l>Me ſaw him take <hi>Namur</hi> dat's impregnable.</l>
+                  <l>'We all lookt on, for we had den</l>
+                  <l>'But hundra twenty touſan Men.</l>
+                  <l>
+                     <pb n="5" facs="tcp:100099:7"/>Your Soldier can do Wonders too<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And love to Fight as we to Dance<g ref="char:punc">▪</g>
+                  </l>
+                  <l>But had day all been ſuch as you,</l>
+                  <l>Begar, dey wou'd have Conquer <hi>France.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>E. Lad.</speaker>
+               <lg>
+                  <l>Still the ſame I find you are,</l>
+                  <l>Skill'd alike in Love and War.</l>
+                  <l>Gallantry in both you ſhew,</l>
+                  <l>But a little Falſhood too;</l>
+                  <l>And with Strong deluding Art,</l>
+                  <l>Win a Fort, or bribe a Heart;</l>
+                  <l>Tho' 'tis like Inconſtant Men,</l>
+                  <l>But to give 'em up again.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>French Of.</speaker>
+               <lg>
+                  <l>We be like all de Vorld indeed,</l>
+                  <l>And give up vat we cannot keep;</l>
+                  <l>But if me get Poſſeſſion here,</l>
+                  <l>Me never give you up, Begar.</l>
+               </lg>
+            </sp>
+            <stage>Struggles with her.</stage>
+            <sp>
+               <speaker>Eng. Lady.</speaker>
+               <p>Forbear, forbear!</p>
+            </sp>
+            <sp>
+               <speaker>Er. Of.</speaker>
+               <p>Ma Chere! My Dear!</p>
+            </sp>
+            <sp>
+               <speaker>Engl. L.</speaker>
+               <p>'Tis all in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Fr. Off.</speaker>
+               <p>Is't all in vain?</p>
+            </sp>
+            <sp>
+               <speaker>Eng. L.</speaker>
+               <p>'Tis all in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Fr. Off.</speaker>
+               <lg>
+                  <l>Is't all in vain? Jer'nie! me then—-</l>
+                  <l>me,—Begar, me go home again.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <p>Adieu, adieu, go home again.</p>
+               <stage>To him a <hi>French</hi> Woman.</stage>
+               <lg>
+                  <l>'Oh! Vat do I ſee?</l>
+                  <l>'Will dis Ingrat ſtill vanton be,</l>
+                  <l>'And to gain oders Ruin me?</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:100099:8"/>
+               <speaker>E. Lad.</speaker>
+               <lg>
+                  <l>'Let roving Thoughts and wandring ceaſe,</l>
+                  <l>'And ſigh no more for Foreign Charms:</l>
+                  <l>'At Home enjoy the ſweets of Peace,</l>
+                  <l>'In your fond faithful Conſorts Arms.</l>
+               </lg>
+            </sp>
+            <stage>All three repeat the laſt four Lines</stage>
+            <stage>An <hi>Engliſh</hi> Officer to the <hi>Engliſh</hi> Lady.</stage>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>'Now, my Dear the War is over,</l>
+                  <l>'And I can be wholly thine.</l>
+                  <l>'Come be kind: Yield to your Lover,</l>
+                  <l>'And no Flame ſhall laſt like mine.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>'Hold, Sir Bully! who'd ſurrender</l>
+                  <l>'When the Siege is hardly laid?</l>
+                  <l>''Tis not ev'ry bold Pretender,</l>
+                  <l>'Whoſe firſt Summons is obey'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>''Tis our way now to be daring,</l>
+                  <l>'And at once to come and take;</l>
+                  <l>'Preſſing, ſtorming, without caring,</l>
+                  <l>'What Reſiſtance you can make.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>'Feeble Towns may thus be taken,</l>
+                  <l>'Chiefly when ſurpriz'd or ſold;</l>
+                  <l>'Then they're plunder'd, and forſaken;</l>
+                  <l>'But I can defend my Hold.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>'You'll be us'd as ill, if early</l>
+                  <l>'On good Terms you do not yield.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:100099:8"/>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>'I'm aſham'd to beat a Parly,
+<stage>Baſhfully.</stage>
+                  </l>
+                  <l>'But you're Maſter of the Field.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>'You ſhall be well treated; fear not:</l>
+                  <l>'Let the Fortreſs be reſign'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>'Oh! Your Servant, Sir, I dare not,</l>
+                  <l>''Till the Articles are Sign'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <lg>
+                  <l>'Come, 'tis juſt it ſhould be ſo,</l>
+                  <l>'Since, like Foes, all Lovers deal:</l>
+                  <l>'Here's my Hand, now let us go,</l>
+                  <l>'And within we'll Sign and Seal.</l>
+               </lg>
+            </sp>
+            <stage>Exeunt.</stage>
+            <lg>
+               <head>A CLOWN.</head>
+               <l>'Come Neighbours, now there's Peace let's Sing:</l>
+               <l>'Troth I love thoſe that love the King.</l>
+               <l>'To ſee his Liege, I came alone,</l>
+               <l>'And left the Parſon with my <hi>Joane.</hi>
+               </l>
+               <l>
+                  <g ref="char:punc">▪</g>Jog <hi>Joggy,</hi> jog on; drive, drive on the Waggon:</l>
+               <l>'Go <hi>Gaffer,</hi> jog on, go, get us a Flaggon.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>'Our Landlords thought the Taxes deep;</l>
+               <l>'But we muſt Sow e're we can Reap.</l>
+               <l>
+                  <pb n="8" facs="tcp:100099:9"/>'What Clown can grudge his Money now?</l>
+               <l>'Odſnigs, not I; and ſo, <hi>God ſpeed the Plow.</hi>
+               </l>
+               <l>'Jog, <hi>Joggy,</hi> jog on; drive, drive on the Waggon,</l>
+               <l>'Go, <hi>Gaffer,</hi> jog on; go get us a Flaggon.</l>
+            </lg>
+            <stage>Enter an <hi>Iriſh Rapparee.</hi>
+            </stage>
+            <lg n="1">
+               <head>1.</head>
+               <l>Hub, ub ub, booh</l>
+               <l>Diſh can't be true:</l>
+               <l>The War does ceaſe,</l>
+               <l>But there's no Peace.</l>
+               <l>I know, and find</l>
+               <l>'Tis Seal'd and Sign'd,</l>
+               <l>But won't believe 'tis true.</l>
+               <l>Hubub, ub, booh.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>A hohne! a hohne!</l>
+               <l>Poor Teague's undone.</l>
+               <l>I dare not be</l>
+               <l>A Raparee:</l>
+               <l>I ne're ſhall ſee,</l>
+               <l>Magrawmacree,
+<stage>His Miſtreſs.</stage>
+               </l>
+               <l>Nor my more dear Garon.</l>
+               <l>A hohne! a hohne.</l>
+            </lg>
+            <lg n="3">
+               <pb n="9" facs="tcp:100099:9"/>
+               <head>3.</head>
+               <l>Away, away!</l>
+               <l>I muſt huzzah:</l>
+               <l>'Twill hide my Fears,</l>
+               <l>And ſave my Ears;</l>
+               <l>The Mob appears.</l>
+               <l>Here's to <hi>Naſſau,</hi>
+               </l>
+               <l>Dear Joys 'tis Uſquebaugh.</l>
+               <l>Huzzah! Huzzah!</l>
+            </lg>
+            <lg>
+               <head>A Country Laſs.</head>
+               <l>Come Girls, let's be merry; the War's at an end;</l>
+               <l>We all ſhall get Husbands: The times now will mend:</l>
+               <l>There's I and our <hi>Mary,</hi>
+               </l>
+               <l>Black <hi>Suſan</hi> and Sarah,</l>
+               <l>Were Woundily Weary,</l>
+               <l>With living Unwed;</l>
+               <l>In a woful quandary,</l>
+               <l>How we ſhould do to tarry.</l>
+               <l>None ask'd me to Marry,</l>
+               <l>Or part with my Maidenhead.</l>
+               <l>Our beſt Lads to the Wars went ſo faſt,</l>
+               <l>And the reſt were moſt of'em ſuch Loobies,</l>
+               <l>E Cod, I fear'd we at laſt</l>
+               <l>Muſt ha' ſuiter'd the Lubberly Boobies.</l>
+            </lg>
+            <stage>
+               <pb n="10" facs="tcp:100099:10"/>Enter a Soldier, who runs and kiſſes her.</stage>
+            <lg>
+               <l>Dear <hi>Joany,</hi>
+               </l>
+               <l>My Hony.</l>
+               <l>What haſt thou forgot me? O—How the Wench Stares!</l>
+               <l>I'm <hi>Thomas</hi> the <hi>Threſher,</hi> juſt come from the Wars.</l>
+               <l>I'm ſtill thy Swee<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-heart; and by Cannons and Mortars,</l>
+               <l>I'le take thee by Storm; and I'll beat up thy Quarters.</l>
+            </lg>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>By Cannons and Mortars,</l>
+                  <l>I'll beat up thy Quarters.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>Hold, <hi>Thomas!</hi> you may not</l>
+                  <l>Nay, <hi>Thomas</hi> you ſha' not.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>Go, I hate you, I vow;</l>
+                  <l>You look, and you talk like a Gentleman now:</l>
+                  <l>Come, off with this Geer,</l>
+                  <l>And d'on the Reparel, that once you did wear.</l>
+                  <l>Go, I hate you, I vow.</l>
+                  <l>You look, and you talk like a Gentleman now.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>He.</speaker>
+               <lg>
+                  <l>Well ſince the War's over, my Brav'ry ſhall down.</l>
+                  <l>Off goes the brave Soldier, on goes the plain Clown.</l>
+               </lg>
+            </sp>
+            <stage>He pulls off his Red Coat, Throws down his Arms and his Wig, and appears, in a Moment, dreſt like a Country Fellow; ſhe leers on him all the while; and then at laſt runs and kiſſes him.</stage>
+            <sp>
+               <speaker>She.</speaker>
+               <lg>
+                  <l>Oh now<g ref="char:punc">▪</g> how I like thee! Oh now I'm thy own!</l>
+                  <l>Thou art Handſomer now,</l>
+                  <l>And finer, I vow,</l>
+                  <l>Than all the ſpruce Gentry and Boars in our Town.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:100099:10"/>
+               <speaker>Both Merrily.</speaker>
+               <lg>
+                  <l>Thus now we agree.</l>
+                  <l>Let all do like me, <hi>She,</hi> Like thee.</l>
+                  <l>To keep their Necks free.</l>
+                  <l>Leave threſhing of Jackets, and get 'em all Wives;</l>
+                  <l>Then threſh in their Barns, with a thump, thump, thump;</l>
+                  <l>Then threſh in their Barns, and lead all merry Lives.</l>
+               </lg>
+               <stage>Enter a Young <hi>Savoyard</hi> with a Rareeſhow.</stage>
+               <lg>
+                  <l>O <hi>Rareeſhow!</hi> brave Show<g ref="char:punc">▪</g>
+                  </l>
+                  <l>VVho ſee my fine Show?</l>
+               </lg>
+               <stage>He lays down his Show, opens it and ſhows it, ſinging firſt a <hi>Savoyard Song.</hi>
+               </stage>
+               <lg>
+                  <l>Here be d'<hi>Ingliſh</hi> and <hi>French</hi> to eatch oder moſt civil,</l>
+                  <l>Shaka Hand, and be Friends, and hug like de Deevel<g ref="char:punc">▪</g>
+                  </l>
+                  <l>O <hi>Rareeſhow</hi> &amp;c.
+<stage>He turns the Motion at every Burthen.</stage>
+                  </l>
+                  <l>Here be de <hi>Savoyards</hi> a trudgin tro <hi>France,</hi>
+                  </l>
+                  <l>To ſweep a de Shimny, to ſing and to dance.</l>
+                  <l>O <hi>Rareeſhow,</hi> &amp;c.</l>
+                  <l>Here be de Great <hi>Turk,</hi> and de Great King of no Land;</l>
+                  <l>And dere be ſome gallop from <hi>Hungary</hi> and <hi>Poland.</hi>
+                  </l>
+                  <l>O <hi>Rareeſhow,</hi> &amp;c.</l>
+                  <l>Here's de brave <hi>Engliſh Beau</hi> for <hi>de</hi> Packet Bot tarries,</l>
+                  <l>To go make his Campain, with his Taylor at <hi>Paris.</hi>
+                  </l>
+                  <l>O <hi>Rareeſhow,</hi> &amp;c.</l>
+                  <l>
+                     <pb n="12" facs="tcp:100099:11"/>Here be d'honeſt Capitain a curſing de Peace.</l>
+                  <l>Here's anoder disbanding his Coach and his Miſs.</l>
+                  <l>O <hi>Rareeſhow,</hi> &amp;c.</l>
+                  <l>Here be d'<hi>Engliſh</hi> Ship fetch Plenty and Riches.</l>
+                  <l>And dere de <hi>French</hi> Caper a mending his Breeches.</l>
+                  <l>O Rareeſhow, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Here be de Grumbler ſet out Lights and diſſemble,</l>
+                  <l>And dere be de Mob make 'um ſquitter and tremble.</l>
+                  <l>O Raree Show, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Here be de Sea Capitain a reeling aſhore,</l>
+                  <l>Here's one ſpend all his Pay, and boarding a Whore.</l>
+                  <l>O Raree Show, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Here be de brave Trainband a drinking Carouſes,</l>
+                  <l>And dere be de Soldiers a ſtorming deir Spouſes.</l>
+                  <l>O Rara Show! brave Show!</l>
+                  <l>Who ſee my fina Show?</l>
+               </lg>
+               <stage>Sings the <hi>Savoyard</hi>'s Ditty, and Exit.</stage>
+               <stage>Twelve Grenadeers rejoyce for the King's Return, and exerciſe at the ſound of the Hautbois and other Inſtruments.</stage>
+               <lg>
+                  <head>The Grand Chorus.</head>
+                  <l>Rejoyce, rejoyce, the World has Reſt,</l>
+                  <l>
+                     <hi>William</hi> returns, and all are bleſt.</l>
+                  <l>He comes, he comes, the beſt of Kings;</l>
+                  <l>More wellcome than the Peace he brings.</l>
+                  <l>Run to meet him,</l>
+                  <l>Haſte to greet him.</l>
+                  <l>
+                     <pb n="13" facs="tcp:100099:11"/>In lofty Notes ſound <hi>William</hi>'s Praiſe!</l>
+                  <l>Sing gentle Peace in ſofteſt Lays!</l>
+                  <l>Hail! Ye great Bleſſings of Mankind!</l>
+                  <l>Glorious <hi>William!</hi> gentle Peace!</l>
+                  <l>Live and reign for ever join'd.</l>
+               </lg>
+            </sp>
+            <trailer>The End of the Interlude.</trailer>
+         </div>
+         <div type="song">
+            <head>Words for a ſingle Song on the Kings Return. Deſign'd for a Private Performance.</head>
+            <lg>
+               <l>Come, let us revel, drink, and ſing,</l>
+               <l>We have a Peace, we have our King,</l>
+               <l>Now, <hi>Britain,</hi> thou'rt a happy Nation.</l>
+               <l>Thy Lord, whoſe Toyls the World have freed,</l>
+               <l>That like a Chaos diſagreed,</l>
+               <l>May reſt, and view his new Creation.</l>
+               <l>There's nothing left for thee to do,</l>
+               <l>But to thy ſelf, thy ſelf be true,</l>
+               <l>And joyful homage pay him.</l>
+               <l>Thou'rt lov'd, admird, and fear'd abroad;</l>
+               <l>Rebellion's quell'd, and Faction's aw'd:</l>
+               <l>Command the World while you obey him!</l>
+            </lg>
+            <lg>
+               <l>See! <hi>Britain</hi>'s happy Sons rejoyee!</l>
+               <l>Now Heav'n and Peace confirm our Choice.</l>
+               <l>
+                  <pb n="14" facs="tcp:100099:12"/>We're happy all,</l>
+               <l>The great, the Small,</l>
+               <l>The Old, the Young,</l>
+               <l>The Weak, the Strong,</l>
+               <l>The Poor who wants,</l>
+               <l>The Rich who grants,</l>
+               <l>The Saint who cants,</l>
+               <l>The Rake who rants,</l>
+               <l>The thoughtleſs Squire, the thinking Wit,</l>
+               <l>The truſted Beau, the truſting Cit;</l>
+               <l>The Clown, the Lawyer, the Tarpawlin,</l>
+               <l>And ev'ry Sect, and ev'ry Calling.</l>
+               <l>All think of new Bleſſings, new Plenty will reign,</l>
+               <l>The Richer will ſave, and the poorer will gain.</l>
+               <l>The Toper in Claret will find all his Wants,</l>
+               <l>And the Clown in right <hi>Nants,</hi>
+               </l>
+               <l>Will whip off his Noggin;</l>
+               <l>The Matron her cold Tea will ſip,</l>
+               <l>The Saylor his Punch and his Flip,</l>
+               <l>And the Bawd her flaming Snapdragon.</l>
+               <l>Thus all hearts are eas'd,</l>
+               <l>And new Joys on us call;</l>
+               <l>For his own private Good each of us is pleas'd,</l>
+               <l>And the King for the good of us all.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100099:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
